@@ -90,3 +90,12 @@ Tested on modern browsers:
 - Safari (latest)
 - Edge (latest)
 
+
+
+🎤 Quick Talking Points to Remember:
+📦 Architecture:     "Parent manages state, children are presentational"
+🪝 Custom Hook:      "useDragAndDrop - reusable, testable, clean separation"
+📐 Overflow Logic:   "Measure container → measure each tab → split into visible/hidden"
+👁️ ResizeObserver:   "Better than window.resize - catches container-level changes"
+⚡ Performance:      "useCallback, memoization, efficient DOM measurements"
+♿ Future:           "Would add keyboard navigation, ARIA attributes, TypeScript"
